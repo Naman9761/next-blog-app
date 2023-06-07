@@ -18,17 +18,13 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+#######################################
+Project Samples:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#######################################
+![Screenshot (37)](https://github.com/Naman9761/next-blog-app/assets/100407963/8490426e-5800-4e46-80b0-45d09c83b18b)
+![Screenshot (38)](https://github.com/Naman9761/next-blog-app/assets/100407963/16186e0f-95a6-40d4-8c25-7b7ef34c81e4)
+![Screenshot (39)](https://github.com/Naman9761/next-blog-app/assets/100407963/a2bd08c0-f3a7-4a09-a3cc-49840daff9d8)
+![Screenshot (40)](https://github.com/Naman9761/next-blog-app/assets/100407963/3e978e05-6f09-47ff-bf01-60b259774dbf)
+![Screenshot (41)](https://github.com/Naman9761/next-blog-app/assets/100407963/50312834-e3bd-4e5c-aa4a-472805e1a91d)
+![Screenshot (42)](https://github.com/Naman9761/next-blog-app/assets/100407963/17b0a91f-a5b9-46c3-a183-0174f1dc6f54)
