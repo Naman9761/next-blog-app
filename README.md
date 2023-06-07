@@ -24,8 +24,26 @@ Project Samples:
 
 #######################################
 ![Screenshot (37)](https://github.com/Naman9761/next-blog-app/assets/100407963/8490426e-5800-4e46-80b0-45d09c83b18b)
+
+Dark Mode
+
 ![Screenshot (38)](https://github.com/Naman9761/next-blog-app/assets/100407963/16186e0f-95a6-40d4-8c25-7b7ef34c81e4)
+
+Light Mode
+
 ![Screenshot (39)](https://github.com/Naman9761/next-blog-app/assets/100407963/a2bd08c0-f3a7-4a09-a3cc-49840daff9d8)
+
+Contact Us Page
+
 ![Screenshot (40)](https://github.com/Naman9761/next-blog-app/assets/100407963/3e978e05-6f09-47ff-bf01-60b259774dbf)
+
+Blog Page
+
 ![Screenshot (41)](https://github.com/Naman9761/next-blog-app/assets/100407963/50312834-e3bd-4e5c-aa4a-472805e1a91d)
+
+Login Page
+
 ![Screenshot (42)](https://github.com/Naman9761/next-blog-app/assets/100407963/17b0a91f-a5b9-46c3-a183-0174f1dc6f54)
+
+Post Your Own Blogs
+
