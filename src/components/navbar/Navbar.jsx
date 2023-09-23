@@ -34,7 +34,7 @@ const links = [
   },
   {
     id: 6,
-    title: "Dashboard",
+    title: "Login/Sign Up",
     url: "/dashboard",
   },
 ];
